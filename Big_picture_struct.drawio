@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-03-30T13:19:10.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" version="24.2.1" etag="n-_QnpMhtipEINef9QG8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-30T23:37:05.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="8xmY9uzHYJod0KVBOER9" version="24.2.1" type="github">
   <diagram name="Page-1" id="UvUaTkXBJv5r0Ggm59kR">
-    <mxGraphModel>
+    <mxGraphModel dx="1554" dy="815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5zR2aEUkFO_tDoW6mpDn-11" value="&lt;div&gt;Main window&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-97" y="282" width="835" height="622" as="geometry" />
+        </mxCell>
+        <mxCell id="5zR2aEUkFO_tDoW6mpDn-2" value="&lt;div&gt;File&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="5zR2aEUkFO_tDoW6mpDn-11">
+          <mxGeometry x="45" y="63" width="218" height="329" as="geometry" />
+        </mxCell>
+        <mxCell id="5zR2aEUkFO_tDoW6mpDn-3" value="&lt;div&gt;Nb lines&lt;/div&gt;&lt;div&gt;File&#39;s path&lt;/div&gt;&lt;div&gt;Associated functions&lt;br&gt;&lt;/div&gt;&lt;div&gt;Imports&lt;br&gt;Outside called functions ?&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="5zR2aEUkFO_tDoW6mpDn-2">
+          <mxGeometry x="20" y="163" width="173" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="5zR2aEUkFO_tDoW6mpDn-4" value="&lt;div&gt;File content&lt;/div&gt;&lt;div&gt;Text Colors&lt;/div&gt;&lt;div&gt;Color of the file ?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="5zR2aEUkFO_tDoW6mpDn-2">
+          <mxGeometry x="20" y="36" width="172" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="5zR2aEUkFO_tDoW6mpDn-12" value="Links (arrows)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="5zR2aEUkFO_tDoW6mpDn-11">
+          <mxGeometry x="293" y="63" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5zR2aEUkFO_tDoW6mpDn-13" value="&lt;div&gt;Limited History ?&lt;/div&gt;&lt;div&gt;Colors between files ?&lt;/div&gt;&lt;div&gt;Deletion ?&lt;/div&gt;&lt;div&gt;Move line arrow ?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="5zR2aEUkFO_tDoW6mpDn-12">
+          <mxGeometry x="14" y="51" width="172" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="5zR2aEUkFO_tDoW6mpDn-18" value="&lt;div&gt;Screen effects&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="764" y="282" width="481" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="5zR2aEUkFO_tDoW6mpDn-19" value="&lt;div&gt;Neon&lt;/div&gt;&lt;div&gt;Terminal style&lt;/div&gt;&lt;div&gt;Moving window&#39;s files ?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5zR2aEUkFO_tDoW6mpDn-18">
+          <mxGeometry x="40" y="75" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5zR2aEUkFO_tDoW6mpDn-20" value="Langage implementation" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="764" y="627" width="491" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="5zR2aEUkFO_tDoW6mpDn-21" value="Don&#39;t know how to do it but yeah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5zR2aEUkFO_tDoW6mpDn-20">
+          <mxGeometry x="29" y="58" width="308" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
